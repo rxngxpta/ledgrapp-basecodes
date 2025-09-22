@@ -19,7 +19,7 @@ import os
 # import pickle
 # import matplotlib as plt
 # import seaborn as sns
-import mftool
+# import mftool
 from plotly.subplots import make_subplots
 from mftool import Mftool
 from selectolax.parser import HTMLParser
